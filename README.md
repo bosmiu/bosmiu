@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bosmiu
 - 👀 I’m interested in music and yoga
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning python and javascript and i am living in shanghai
 - 💞️ I’m looking to collaborate on male and famale
 - 📫 How to reach me at symzmiu@163.com
 
